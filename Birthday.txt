@@ -1,2 +1,4 @@
 #include "Ivent.h"
-class Birthday : public Ivent{}
+class Birthday : public Ivent{
+show();
+}
